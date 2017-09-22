@@ -16,6 +16,8 @@ next
   current directory. This allows Emacs and Vim to know where relative
   filenames should be interpreted from. Fixes #138
 
+- Add support for locks in actions, for flaky tests
+
 1.0+beta13 (05/09/2017)
 -----------------------
 
